@@ -1,0 +1,25 @@
+East 
+West 
+North 
+South 
+Lower 
+Upper 
+Little 
+Large 
+Great 
+Old 
+New 
+Le 
+St. 
+San 
+Santa 
+El 
+Mount 
+Sleepy 
+Nether 
+Fort 
+Costa del 
+Olde 
+Neo 
+Nouveau 
+Nova 
