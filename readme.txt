@@ -1,60 +1,16 @@
-====================================
-====================================
-Simcity Name Generator ( SiNG )
-Version 1.2
+# Simcity Name Generator ( SiNG )
 
-Programmed by muhtadi
-email: muhtadi@yahoo.com
-web: http://www.geocities.com/muhtadi
-=====================================
-=====================================
+Originally coded in 2004 in Delphi, Simcity Name Generator was one of my earliest coding projects for which I still have the source code. I've recently rediscovered the code so I decided to upload it to GitHub and placed it under the MIT license.
 
-****************
-Why I made this.
-****************
+## Why I made this
 
-Inspired by Simtropolis' ( http://www.simtropolis.com ) own City Name
-Generator, I decided to make one myself. Why? Because the Simtropolis
-one was online only and I don't have the luxury of being online whenever
-I want to.
+Back in the day I made a lot of cities in SimCity 4, and I started wanting to have a name generator for the cities I were making. There was one on Simtropolis (https://www.simtropolis.com) but it was online only and back then, my internet access was limited to dialup only so I didn't have the luxury of having the internet available all the time. Inspired by the Simtropolis name generator, I decided to create one myself in Delphi (my favourite programming language and IDE back then) and the result was a really cool tiny app that could generate millions of different names. I uploaded it to Simtropolis so others could enjoy it too, and I remember getting a few encouraging comments. While Simtropolis still exists, my app doesn't seem to be downloadable from there anymore, which is a shame. The executable, though probably first compiled under Windows XP or Windows Me (I don't remember), still surprisingly works under Windows 11!
 
-So I decided to make a small app I could use whenever I alt+tab out of
-Simcity 4. The program you have downloaded is the result.
+Now in 2025, I still think it's better than the name generators found in modern city simulators. 
 
-**************
-How to install
-**************
+## How it works
 
-Just unzip everything out of the zipfile into a folder. Make sure every
-file is in the same folder. Run the SiNG.exe program.
-
-***********************
-How to use this program
-***********************
-
-I don't think you'll need any instructions on how to use this little app,
-right? Right? No? Bah.
-
-Since this program was designed with Simcity 4 in mind, I'll explain it
-using that version. But you could use it for any Simcity, probably even
-Simcity SNES! Heck, you could even use it for Transport Tycoon Deluxe
-(and that's not even Simcity)!
-
-What you do is, first load Simcity 4. Start a new city. When it asks you
-what you want to name your city and what the mayor's name is, ALT+TAB out
-of Simcity 4. Load the Simcity Name Generator. Generate a name. Select
-the name with your cursor, press CTRL+C to copy the name, then ALT+TAB
-back into Simcity 4, click in the field where you're supposed to type
-the city name or mayor's name, then press CTRL+V. Voila, Instant name.
-
-Or you could just think up one yourself. In which case, I question you
-downloading this program.
-
-Anyways, have fun.
-
-************
-How it works
-************
+The following is a copy-and-paste from the readme I originally wrote:
 
 The Simcity Name Generator works by pulling names randomly from text
 files located in the same folder as the program itself. There are 7 text
@@ -95,34 +51,3 @@ city names (actually it's probably close to 4 million, can't remember my
 math) but if that's not enough, you can add your own city or mayor names
 by editing the text files. Some generated city names can be quite
 humourous (especially if you enable prefixes and midfixes)! Have fun!
-
-Hate it? Love it? Got Comments? Want to have my babies?
-Email me! Address above.
-
-*****************************
-Credits where credits are due
-*****************************
-
-* Simtropolis - I got the idea from them :p
-* zeke12 from the Simtropolis forums - He started a thread that helped
-  out a lot with this program.
-* The people who posted in said thread. I took a lot of people's ideas
-  for names and used them here.
-
-*************
-Miscellaneous
-*************
-
-Visit these sites!
-Simtropolis: http://www.simtropolis.com
-Simcity Central : http://www.simcitycentral.net
-Official Simcity site : http://www.simcity.com
-
-======================
-©2004 muhtadi
-
-Simcity is a trademark of Maxis and EA Games.
-
-Icon obtained from Tony Clemens' 96 collection.
-( http://www.concentric.net/~tclemens )
-Used WITHOUT permission.
