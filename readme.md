@@ -1,5 +1,7 @@
 # Simcity Name Generator ( SiNG )
 
+![Simcity Name Generator](sing.png)
+
 Originally coded in 2004 in Delphi, Simcity Name Generator was one of my earliest coding projects for which I still have the source code. I've recently rediscovered the code so I decided to upload it to GitHub and placed it under the MIT license.
 
 ## Why I made this
